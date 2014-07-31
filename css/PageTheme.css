@@ -78,13 +78,13 @@ background-position: center;
   background-color: rgba(255,255,255,0.7);
   display: inline-block;
   left: 0px;
-  margin: 50px;
+  margin: 30px;
   position: relative;
   width: 350px;
   height: 120px;
   min-height:120px;
   border-radius: 10px;
-  padding: 10px;
+  padding: 20px;
 }
 
 #projectBox{
